@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "core",
+    "stream",
+    "db"
+]
+
+resolver = "2"
